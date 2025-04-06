@@ -18,3 +18,5 @@ Right now, we are developing an AI all-in-one toolbox platform that provides sim
 Here are some methods you can use to contact us:
 * Tag us on social media
 * Email support@keovonteai.com 
+
+![kAI Logo with sparkles in the background](./banner.png)
